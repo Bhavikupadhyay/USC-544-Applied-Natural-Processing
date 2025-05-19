@@ -1,0 +1,6 @@
+conlleval
+torch
+numpy
+copy
+datasets
+accelerate
